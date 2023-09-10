@@ -1,0 +1,16 @@
+<style>
+        body{
+            background-color: rgb(167, 116, 214);
+            font-family: Arial;
+            font-size: 20px;
+            
+        }
+        h2{
+            color: brown;
+        }
+        p{
+            text-align: justify;
+        }
+
+
+    </style>
